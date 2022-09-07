@@ -1,1 +1,0 @@
-export { second } from "./ReviewsList";
